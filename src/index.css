@@ -1,0 +1,11 @@
+/* Global resets — App.css handles all design tokens and component styles */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #root {
+  height: 100%;
+  overflow: hidden;
+}

@@ -1,0 +1,1 @@
+Hi! What location would you like the weather for?
